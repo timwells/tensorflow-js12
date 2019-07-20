@@ -1,0 +1,13 @@
+{
+  "name": "tensorflow-js12",
+  "version": "1.0.0",
+  "description": "Test run of iris ML",
+  "main": "index.js",
+  "scripts": {},
+  "author": "TimW",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.3",
+    "@tensorflow/tfjs-node": "^1.2.4"
+  }
+}
