@@ -1,2 +1,3 @@
 # tensorflow-js12
-TensorFlow test
+npm install
+node index.js
